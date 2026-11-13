@@ -1,0 +1,26 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python generated files
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Secrets and local environment configuration
+.env
+.env.*
+!.env.example
+
+# Application logs
+logs/
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code local settings
+.vscode/
