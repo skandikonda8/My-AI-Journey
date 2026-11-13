@@ -1,4 +1,5 @@
-# My AI Journey 2026
+# My AI Journey 
+
 
 This repository documents my step-by-step journey into Artificial Intelligence and Generative AI through practical projects.
 
